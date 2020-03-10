@@ -409,17 +409,60 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Source Code**](https://github.com/ram-on/SkyTube)
 
 ## Tool
+
+### [KingRoot](https://kingrootapp.net/)
+
+*1-Click Android Rooter*
+
 - **Requires Root**: Yes
-- [**KingRoot**](https://kingrootapp.net/)
-- [**XModGames**](http://www.xmodgames.com/)
-- [**Xposed-Installer**](https://repo.xposed.info/module/de.robv.android.xposed.installer)
+
+### [XModGames](http://www.xmodgames.com/)
+
+*Xmodgames is a mobile game assistant App with mods/accelerators for hot games.*
+
+- **Requires Root**: Yes
+
+### [Xposed-Installer](https://repo.xposed.info/module/de.robv.android.xposed.installer)
+
+*Xposed Installer Installs Xposed Framework which is a framework for modules that can change the behavior of the system and apps without touching any APKs.*
+
+- **Requires Root**: Yes
+
+### [Aptoide](https://www.aptoide.com/)
+
+*Aptoide is a software marketplace application for installing mobile applications which runs on the Android operating system.*
 
 - **Requires Root**: No
-- [**Aptoide**](https://www.aptoide.com/)
-- [**ACMarket**](https://acmarket.net/)
-- [**Blackmart**](https://blackmart.club/)
-- [**Snaptube**](https://www.snaptubeapp.com/)
-- [**TubeMate**](http://www.tubemate.net/)
+
+### [ACMarket](https://acmarket.net/)
+
+*The ultimate choice for modified / tweaked / hacked / cracked apps and games for your Android devices.*
+
+- **Requires Root**: No
+
+### [Blackmart](https://blackmart.club/)
+
+*Blackmart is a great alternative of Google Play Store to download paid apps, games, sofwares and much more*
+
+- **Requires Root**: No
+
+### [Snaptube](https://www.snaptubeapp.com/)
+
+*Snaptube video downloader lets you download video and music from various sites to Android*
+
+- **Requires Root**: No
+
+### [TubeMate](http://www.tubemate.net/)
+
+*TubeMate YouTube Downloader is an app to download videos from Youtube directly onto your mobile phone with multi threaded download technology.*
+
+- **Requires Root**: No
+
+### [Popcorn-Time](https://getpopcorntime.is/)
+
+*Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.*
+
+- **Requires Root**: No
 
 ## VPN
 
