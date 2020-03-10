@@ -17,7 +17,7 @@ Table of contents
   * [Personalisation](#personalisation)
   * [Photos](#photos)
   * [Streaming](#streaming)
-  * [Tool](#tool)
+  * [Tools](#tools)
   * [VPN](#vpn)
   * [Others](#others)
   * [Modding](#modding)
@@ -408,7 +408,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid**](https://f-droid.org/en/packages/free.rm.skytube.oss/)
 - [**Source Code**](https://github.com/ram-on/SkyTube)
 
-## Tool
+## Tools
 
 ### [ACMarket](https://acmarket.net/)
 
