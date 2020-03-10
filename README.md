@@ -410,23 +410,11 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ## Tool
 
-### [KingRoot](https://kingrootapp.net/)
+### [ACMarket](https://acmarket.net/)
 
-*1-Click Android Rooter*
+*The ultimate choice for modified / tweaked / hacked / cracked apps and games for your Android devices.*
 
-- **Requires Root**: Yes
-
-### [XModGames](http://www.xmodgames.com/)
-
-*Xmodgames is a mobile game assistant App with mods/accelerators for hot games.*
-
-- **Requires Root**: Yes
-
-### [Xposed-Installer](https://repo.xposed.info/module/de.robv.android.xposed.installer)
-
-*Xposed Installer Installs Xposed Framework which is a framework for modules that can change the behavior of the system and apps without touching any APKs.*
-
-- **Requires Root**: Yes
+- **Requires Root**: No
 
 ### [Aptoide](https://www.aptoide.com/)
 
@@ -434,15 +422,21 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 - **Requires Root**: No
 
-### [ACMarket](https://acmarket.net/)
-
-*The ultimate choice for modified / tweaked / hacked / cracked apps and games for your Android devices.*
-
-- **Requires Root**: No
-
 ### [Blackmart](https://blackmart.club/)
 
 *Blackmart is a great alternative of Google Play Store to download paid apps, games, sofwares and much more*
+
+- **Requires Root**: No
+
+### [KingRoot](https://kingrootapp.net/)
+
+*1-Click Android Rooter*
+
+- **Requires Root**: Yes
+
+### [Popcorn-Time](https://getpopcorntime.is/)
+
+*Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.*
 
 - **Requires Root**: No
 
@@ -458,11 +452,17 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 - **Requires Root**: No
 
-### [Popcorn-Time](https://getpopcorntime.is/)
+### [XModGames](http://www.xmodgames.com/)
 
-*Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.*
+*Xmodgames is a mobile game assistant App with mods/accelerators for hot games.*
 
-- **Requires Root**: No
+- **Requires Root**: Yes
+
+### [Xposed-Installer](https://repo.xposed.info/module/de.robv.android.xposed.installer)
+
+*Xposed Installer Installs Xposed Framework which is a framework for modules that can change the behavior of the system and apps without touching any APKs.*
+
+- **Requires Root**: Yes
 
 ## VPN
 
