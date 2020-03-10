@@ -407,6 +407,12 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid**](https://f-droid.org/en/packages/free.rm.skytube.oss/)
 - [**Source Code**](https://github.com/ram-on/SkyTube)
 
+## Tool
+- **Requires Root**: Yes
+- [**XModGames**](http://www.xmodgames.com/)
+- [**Xposed-Installer**](https://repo.xposed.info/module/de.robv.android.xposed.installer)
+- [**KingRoot**](https://kingrootapp.net/)
+
 ## VPN
 
 ### [RiseupVPN](https://riseup.net/en/vpn)
