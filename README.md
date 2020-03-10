@@ -569,3 +569,6 @@ Want to contribute? Feel free to fork the project and send merge requests when y
 [FossBytes](https://fossbytes.com/best-free-open-source-apps-android/)
 
 [TechWiser](https://techwiser.com/open-source-android-apps/)
+
+## License :scroll:
+This Project is licensed under the BSD 3-Clause. Check License file for more info. 
