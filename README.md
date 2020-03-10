@@ -17,6 +17,7 @@ Table of contents
   * [Personalisation](#personalisation)
   * [Photos](#photos)
   * [Streaming](#streaming)
+  * [Tool](#tool)
   * [VPN](#vpn)
   * [Others](#others)
   * [Modding](#modding)
