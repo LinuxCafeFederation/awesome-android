@@ -410,9 +410,16 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ## Tool
 - **Requires Root**: Yes
+- [**KingRoot**](https://kingrootapp.net/)
 - [**XModGames**](http://www.xmodgames.com/)
 - [**Xposed-Installer**](https://repo.xposed.info/module/de.robv.android.xposed.installer)
-- [**KingRoot**](https://kingrootapp.net/)
+
+- **Requires Root**: No
+- [**Aptoide**](https://www.aptoide.com/)
+- [**ACMarket**](https://acmarket.net/)
+- [**Blackmart**](https://blackmart.club/)
+- [**Snaptube**](https://www.snaptubeapp.com/)
+- [**TubeMate**](http://www.tubemate.net/)
 
 ## VPN
 
