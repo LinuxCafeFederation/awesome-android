@@ -464,13 +464,14 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *Xmodgames is a mobile game assistant App with mods/accelerators for hot games.*
 
 - **Requires Root**: Yes
-- [**APKMirror**](https://www.apkmirror.com/apk/rovo89/xposed-installer/xposed-installer-3-1-5-release/xposed-installer-3-1-5-android-apk-download/)
+- [**Malavida**](https://www.malavida.com/en/soft/xmod-games/android/)
 
 ### [Xposed-Installer](https://repo.xposed.info/module/de.robv.android.xposed.installer)
 
 *Xposed Installer Installs Xposed Framework which is a framework for modules that can change the behavior of the system and apps without touching any APKs.*
 
 - **Requires Root**: Yes
+- [**APKMirror**](https://www.apkmirror.com/apk/rovo89/xposed-installer/xposed-installer-3-1-5-release/xposed-installer-3-1-5-android-apk-download/)
 
 ## VPN
 
