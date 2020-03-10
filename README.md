@@ -415,48 +415,56 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *The ultimate choice for modified / tweaked / hacked / cracked apps and games for your Android devices.*
 
 - **Requires Root**: No
+- [**Malavida**](https://www.malavida.com/en/soft/acmarket/android/)
 
 ### [Aptoide](https://www.aptoide.com/)
 
 *Aptoide is a software marketplace application for installing mobile applications which runs on the Android operating system.*
 
 - **Requires Root**: No
+- [**Softonic**](https://aptoide.en.softonic.com/android)
 
 ### [Blackmart](https://blackmart.club/)
 
 *Blackmart is a great alternative of Google Play Store to download paid apps, games, sofwares and much more*
 
 - **Requires Root**: No
+- [**Malavida**](https://www.malavida.com/en/soft/blackmart-alpha/android/)
 
 ### [KingRoot](https://kingrootapp.net/)
 
 *1-Click Android Rooter*
 
 - **Requires Root**: Yes
+- [**UpToDown**](https://kingroot.en.uptodown.com/android)
 
 ### [Popcorn-Time](https://getpopcorntime.is/)
 
 *Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.*
 
 - **Requires Root**: No
+- [**UpToDown**](https://popcorn-time.en.uptodown.com/android/download)
 
 ### [Snaptube](https://www.snaptubeapp.com/)
 
 *Snaptube video downloader lets you download video and music from various sites to Android*
 
 - **Requires Root**: No
+- [**UpToDown**](https://snaptube.en.uptodown.com/android)
 
 ### [TubeMate](http://www.tubemate.net/)
 
 *TubeMate YouTube Downloader is an app to download videos from Youtube directly onto your mobile phone with multi threaded download technology.*
 
 - **Requires Root**: No
+- [**Cnet**](https://download.cnet.com/TubeMate/3000-2141_4-75672276.html)
 
 ### [XModGames](http://www.xmodgames.com/)
 
 *Xmodgames is a mobile game assistant App with mods/accelerators for hot games.*
 
 - **Requires Root**: Yes
+- [**APKMirror**](https://www.apkmirror.com/apk/rovo89/xposed-installer/xposed-installer-3-1-5-release/xposed-installer-3-1-5-android-apk-download/)
 
 ### [Xposed-Installer](https://repo.xposed.info/module/de.robv.android.xposed.installer)
 
