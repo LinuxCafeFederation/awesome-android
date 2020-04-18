@@ -115,15 +115,15 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.mozilla.klar&hl=en_US)
 - [**Source Code**](https://github.com/mozilla-mobile/focus-android)
 
-### [~~Kiwi Browser~~](https://kiwibrowser.com/)
+### [Kiwi Browser](https://kiwibrowser.com/)
 
-*~~Based on Chrome Canary; extension support; built-in dark mode; degoogled.~~*
+*Based on Chrome Canary; extension support; built-in dark mode; degoogled.*
 
 **EDIT: this application is _proprietary_ and _outdated_; please see this [issue](https://github.com/kiwibrowser/android/issues/30#issuecomment-583223430).**
 
-- ~~**Requires Root**: No~~
-- ~~[**F-Droid**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)~~
-- ~~[**Source Code**](https://github.com/kiwibrowser)~~
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
+- [**Source Code**](https://github.com/kiwibrowser/src)
 
 ### [Privacy Browser](https://www.stoutner.com/privacy-browser/)
 
