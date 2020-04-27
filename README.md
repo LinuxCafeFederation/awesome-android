@@ -495,6 +495,14 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid repository**](https://microg.org/download.html)
 - [**Source Code**](https://github.com/microg)
 
+### ScreenCam
+
+*Lightweight and functional screen recorder*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/com.orpheusdroid.screenrecorder/)
+- [**Source Code**](https://gitlab.com/vijai/screenrecorder)
+
 ### Shelter
 
 *Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.*
