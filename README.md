@@ -257,6 +257,14 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader)
 - [**Source Code**](https://github.com/QuantumBadger/RedReader)
 
+### [RTranslator](https://github.com/niedev/RTranslator)
+
+*Universal translator based on Google's APIs and Bluetooth LE*
+
+- **Requires Root**: No
+- [**Google Play**](https://play.google.com/store/apps/details?id=nie.translator.rtranslatordevedition)
+- [**Source Code**](https://github.com/niedev/RTranslator)
+
 ### [Slide](https://www.reddit.com/r/slideforreddit/)
 
 *Unofficial Reddit client; material-design; ad-free and has tons of customisation.*
@@ -265,14 +273,6 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid**](https://f-droid.org/en/packages/me.ccrama.redditslide/)
 - [**Google Play**](https://play.google.com/store/apps/details?id=me.ccrama.redditslide&hl=en)
 - [**Source Code**](https://github.com/ccrama/Slide)
-
-### [RTranslator](https://github.com/niedev/RTranslator)
-
-*Universal translator based on Google's APIs*
-
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=nie.translator.rtranslatordevedition)
-- [**Source Code**](https://github.com/niedev/RTranslator)
 
 ## Education
 
