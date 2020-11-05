@@ -266,6 +266,14 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=me.ccrama.redditslide&hl=en)
 - [**Source Code**](https://github.com/ccrama/Slide)
 
+### [RTranslator](https://github.com/niedev/RTranslator)
+
+*Universal translator based on Google's APIs*
+
+- **Requires Root**: No
+- [**Google Play**](https://play.google.com/store/apps/details?id=nie.translator.rtranslatordevedition)
+- [**Source Code**](https://github.com/niedev/RTranslator)
+
 ## Education
 
 ### [phyphox](https://phyphox.org/)
