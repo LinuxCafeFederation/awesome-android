@@ -140,7 +140,7 @@ Contents
 
 ## Contributing
 
-Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure to follow [these rules](https://github.com/niedev/awesome-android/blob/main/Contributing.md).
+Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure to follow [these rules](Contributing.md).
 
 I will check it out and will decide if I should accept it or not. If you do not want to fork the project, consider [opening an issue](https://github.com/TheEvilSkeleton/free-and-open-source-android-apps/issues) and suggest what application you want me to install.
 
@@ -148,7 +148,7 @@ I will check it out and will decide if I should accept it or not. If you do not 
 
 ### Deprecated contents
 
-To see content that is deprecated, lacking documentation or proprietary but still useful go to [DeprecatedContents](https://github.com/niedev/awesome-android/blob/main/DeprecatedContents.md)
+To see content that is deprecated, lacking documentation or proprietary but still useful go to [DeprecatedContents](DeprecatedContents.md)
 
 ### Other Git repositories
 
