@@ -42,6 +42,7 @@ Contents
 ## Browsers
 
 - [Bromite](https://www.bromite.org/) - Based on Chromium; built-in adblocking; enhanced privacy; degoogled.
+- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Browser based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android - NOTE: There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime.
 - [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) - Privacy-oriented browser with tracking protection and content blocking.
 - [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market.
 - [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.
