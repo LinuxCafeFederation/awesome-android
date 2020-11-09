@@ -3,7 +3,7 @@
 Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure to follow these rules:
 
 - Check if the product is already present.
-- If the suggested product is proprietary, it has no documentation or is proprietary, insert it in [DeprecatedContents](https://github.com/niedev/awesome-android/blob/main/DeprecatedContents.md).
+- If the suggested product is proprietary, it has no documentation or is proprietary, insert it in [DeprecatedContents](DeprecatedContents.md).
 - If you want you can add new category or improve the categorization but you have to update the Content index as well.
 - Use the following format: `[project title](link) - Description.`
 - Enter at the end of the description "(Require root)" if root permissions is needed to run the app or "(Root permission is optional)" if root permissions is needed to unlock or improve some features.
