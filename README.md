@@ -42,7 +42,6 @@ Contents
 ## Browsers
 
 - [Bromite](https://www.bromite.org/) - Based on Chromium; built-in adblocking; enhanced privacy; degoogled.
-- [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android - NOTE: There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime.
 - [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) - Privacy-oriented browser with tracking protection and content blocking.
 - [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market.
 - [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.
@@ -92,7 +91,6 @@ Contents
 ## Office
 
 - [Collabora Office](https://gerrit.libreoffice.org/plugins/gitiles/online) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
-- [OnlyOffice](https://www.onlyoffice.com/) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows. **(This app is _proprietary).** 
 
 ## Password managers
 
@@ -142,9 +140,17 @@ Contents
 
 ## Contributing
 
-Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure it is in alphabetical order. I will check it out and will decide if I should accept it or not. If you do not want to fork the project, consider [opening an issue](https://github.com/TheEvilSkeleton/free-and-open-source-android-apps/issues) and suggest what application you want me to install.
+Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure to follow [these rules](https://github.com/niedev/awesome-android/blob/main/Contributing.md).
 
-## Other Git repositories
+I will check it out and will decide if I should accept it or not. If you do not want to fork the project, consider [opening an issue](https://github.com/TheEvilSkeleton/free-and-open-source-android-apps/issues) and suggest what application you want me to install.
+
+## Footnotes
+
+### Deprecated contents
+
+To see content that is deprecated, lacking documentation or proprietary but still useful go to [DeprecatedContents](https://github.com/niedev/awesome-android/blob/main/DeprecatedContents.md)
+
+### Other Git repositories
 
 [Ashpex / Android FOSS Apps](https://gitlab.com/Ashpex/android-FOSS-apps)
 
@@ -156,7 +162,7 @@ Want to contribute? Feel free to fork the project and send merge requests when y
 
 [samedamci / FOSS_Stuff](https://git.samedamci.me/samedamci/FOSS_Stuff)
 
-## External sources
+### External sources
 
 [Android Authority](https://www.androidauthority.com/best-open-source-apps-for-android-861665/)
 
