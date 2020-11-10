@@ -33,7 +33,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync (Root permission is optional).
 - [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional).
 
-## Book Readers
+## Book readers
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
 - [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
@@ -117,8 +117,8 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## VPN
 
-- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
-- [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**)
+- [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
+- [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
 
 ## Others
 
