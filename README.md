@@ -2,25 +2,25 @@
 
 A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-* projects.
 
-Contents
-=================
-  * [Advertisement blocking](#advertisement-blocking)
-  * [App stores](#app-stores)
-  * [Book readers](#book-readers)
-  * [Browsers](#browsers)
-  * [Cameras](#cameras)
-  * [Communication](#communication)
-  * [Education](#education)
-  * [Media Players](#media-players)
-  * [Music](#music)
-  * [Office](#office)
-  * [Password managers](#password-managers)
-  * [Personalisation](#personalisation)
-  * [Photos](#photos)
-  * [Streaming](#streaming)
-  * [VPN](#vpn)
-  * [Others](#others)
-  * [Modding](#modding)
+## Contents
+
+- [Advertisement blocking](#advertisement-blocking)
+- [App stores](#app-stores)
+- [Book readers](#book-readers)
+- [Browsers](#browsers)
+- [Cameras](#cameras)
+- [Communication](#communication)
+- [Education](#education)
+- [Media Players](#media-players)
+- [Music](#music)
+- [Office](#office)
+- [Password managers](#password-managers)
+- [Personalisation](#personalisation)
+- [Photos](#photos)
+- [Streaming](#streaming)
+- [VPN](#vpn)
+- [Others](#others)
+- [Modding](#modding)
 
 ## Advertisement blocking
 
