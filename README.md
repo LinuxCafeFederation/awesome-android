@@ -57,6 +57,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Communication
 
 - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
+- [Barinsta](https://barinsta.austinhuang.me) - Third-party Instagram with no ads and reduced tracking.
 - [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
 - [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
 - [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
