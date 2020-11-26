@@ -75,6 +75,8 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [Tusky](https://tusky.app/) - Mastodon client for Android.
 - [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
+- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram is a messaging app with a focus on speed and security. It is simple and free. Note that this FOSS version isn't official, official version can be found on Playstore but that version uses non-free dependencies.
+- [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client(based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on github).
 
 ## Education
 
