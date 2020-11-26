@@ -130,6 +130,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
 - [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
+- [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
 
 ## Modding
 
