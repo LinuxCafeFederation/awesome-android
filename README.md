@@ -16,6 +16,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Media Players](#media-players)
 - [Music](#music)
 - [Office](#office)
+- [Productivity](#productivity)
 - [Password managers](#password-managers)
 - [Personalisation](#personalisation)
 - [Photos](#photos)
@@ -95,6 +96,12 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Office
 
 - [Collabora Office](https://gerrit.libreoffice.org/plugins/gitiles/online) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows.
+
+## Productivity
+
+- [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
+- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
+- [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 
 ## Password managers
 
