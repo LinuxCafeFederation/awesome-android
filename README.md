@@ -37,6 +37,17 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync (Root permission is optional).
 - [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional).
 
+## Basic Utilities
+
+- [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
+- [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) - Be notified of the important moments in your life.
+- [Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock/) - A combination of a clock, alarm, stopwatch and timer.
+- [Simple Contacts](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) - A premium app for contact management with no ads, supports groups and favorites.
+- [Simple Dialer](https://f-droid.org/en/packages/com.simplemobiletools.dialer/) - A handy phone call manager with phonebook, number blocking and multi-SIM support.
+- [Simple Flashlight](https://f-droid.org/en/packages/com.simplemobiletools.flashlight/) - A simple flashlight without ads.
+- [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
+- [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access.
+
 ## Book readers
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
@@ -154,8 +165,13 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
 - [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
-- [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories.
 - [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
+
+## Tools
+
+- [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
+- [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
+- [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories.
 
 ## Modding
 
@@ -164,9 +180,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Island](https://island.oasisfeng.com/) - By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them ([Source Code](https://github.com/oasisfeng/island)) (Root permission is optional).
 - [Insular](https://gitlab.com/secure-system/Insular) - Fork of [Island](#island) with removed proprietary Google Play libraries.
 - [Magisk Manager](https://github.com/topjohnwu/Magisk) - Front-end to [Magisk](https://magisk.me/) (Require root).
-- [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
 - [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install ([Source Code](https://github.com/microg)).
-- [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
 - [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into (It has a few compatibility issues with Android 10+ for now but you can still use it if you like).
 - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root).
 - [Linux Deploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android (Requires root).
