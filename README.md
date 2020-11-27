@@ -58,6 +58,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 ## Cameras
 
 - [Open Camera](https://opencamera.sourceforge.io/) - Camera app with DSLR features.
+- [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/) - A camera with flash, zoom and no ads.
 
 ## Communication
 
@@ -102,6 +103,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Odyssey Music Player](https://github.com/gateship-one/odyssey) - Lightweight music player.
 - [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android.
 - [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android.
+- [Simple Music PLayer](https://f-droid.org/en/packages/com.simplemobiletools.musicplayer/) - A clean music player with a customizable widget.
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer) - Local music player for Android.
 - [VLC](https://www.videolan.org/) - Minimal media player.
 
@@ -118,6 +120,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Personalisation
 
+- [App Launcher](https://f-droid.org/en/packages/com.simplemobiletools.applauncher/) - A simple holder for your favourite app launchers.
 - [Lawnchair 2](https://lawnchair.app/) - Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3).
 - [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
 - [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).
@@ -126,12 +129,14 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 ## Photos
 
 - [Phimp.me](https://github.com/fossasia/phimpme-android) - Photo Imaging and Picture Editor.
+- [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/) - A premium app for managing and editing your photos, videos, GIFs without ads.
 
 ## Productivity
 
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
-- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
+- [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
+- [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
 
 ## Streaming
 
@@ -148,8 +153,9 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
-- [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 - [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
+- [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories.
+- [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 
 ## Modding
 
