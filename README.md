@@ -8,6 +8,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [Advertisement blocking](#advertisement-blocking)
 - [App stores](#app-stores)
+- [Basic Utilities](#basic-utilities)
 - [Book readers](#book-readers)
 - [Browsers](#browsers)
 - [Cameras](#cameras)
@@ -24,6 +25,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Streaming](#streaming)
 - [VPN](#vpn)
 - [Others](#others)
+- [Tools](#tools)
 - [Modding](#modding)
 
 ## Advertisement blocking
@@ -39,6 +41,8 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Basic Utilities
 
+- [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android.
+- [QKSMS](https://github.com/moezbhatti/qksms) - A beautiful SMS messenger for Android.
 - [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
 - [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) - Be notified of the important moments in your life.
 - [Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock/) - A combination of a clock, alarm, stopwatch and timer.
