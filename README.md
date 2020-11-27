@@ -81,6 +81,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Education
 
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android) - Anki flashcards on Android.
 - [phyphox](https://phyphox.org/) - Sensors and data analyser.
 
 ## Games
