@@ -42,14 +42,12 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Basic Utilities
 
 - [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android.
-- [QKSMS](https://github.com/moezbhatti/qksms) - A beautiful SMS messenger for Android.
 - [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
 - [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) - Be notified of the important moments in your life.
 - [Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock/) - A combination of a clock, alarm, stopwatch and timer.
 - [Simple Contacts](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) - A premium app for contact management with no ads, supports groups and favorites.
 - [Simple Dialer](https://f-droid.org/en/packages/com.simplemobiletools.dialer/) - A handy phone call manager with phonebook, number blocking and multi-SIM support.
 - [Simple Flashlight](https://f-droid.org/en/packages/com.simplemobiletools.flashlight/) - A simple flashlight without ads.
-- [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access.
 
 ## Book readers
@@ -89,6 +87,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
 - [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
+- [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [Tusky](https://tusky.app/) - Mastodon client for Android.
 - [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
