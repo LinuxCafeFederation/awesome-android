@@ -78,7 +78,9 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
 - [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
 - [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
+- [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
 - [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
+- [FluffyChat](https://gitlab.com/ChristianPauly/fluffychat-flutter) - A minimalist matrix client for Android.
 - [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale.
