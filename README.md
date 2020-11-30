@@ -143,6 +143,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher.
 - [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3).
 - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) - Launcher that aims to be a powerful and community driven project.
+- [Taskbar](https://github.com/farmerbb/Taskbar) -  A PC-style Launcher for Android.
 
 ## Photos
 
