@@ -193,6 +193,8 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Linux Deploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android (Requires root).
 - [Magisk Manager](https://github.com/topjohnwu/Magisk) - Front-end to [Magisk](https://magisk.me/) (Require root).
 - [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install ([Source Code](https://github.com/microg)).
+- [Nethunter-App](http://store.nethunter.com/en/packages/com.offsec.nethunter/) - This is the next-gen Nethunter app, which acts as an installer, updater,
+and interface for the Kali Linux chroot. Please note that it requires [Nethunter Terminal](http://store.nethunter.com/en/packages/com.offsec.nhterm/) to work.
 - [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into (It has a few compatibility issues with Android 10+ for now but you can still use it if you like).
 - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root).
 
