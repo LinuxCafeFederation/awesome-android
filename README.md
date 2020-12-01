@@ -38,6 +38,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync (Root permission is optional).
 - [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional).
+- [Foxy Droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client.
 
 ## Basic Utilities
 
@@ -66,6 +67,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market.
 - [Kiwi Browser](https://kiwibrowser.com/) - Based on Chrome Canary; extension support; built-in dark mode; degoogled.
 - [Privacy Browser](https://www.stoutner.com/privacy-browser/) - Minimal browser focused for privacy.
+- [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) - A Secure, Free and Open Source WebView-based web browser for Android. A fork of Lightning Browser.
 - [Tor Browser](https://torproject.org) - Tor browser for Android, based on FireFox.
 
 ## Cameras
@@ -76,6 +78,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 ## Communication
 
 - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
+- [Barinsta](https://github.com/austinhuang0131/barinsta) - Open-source alternative Instagram client on Android.
 - [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
 - [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
 - [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
@@ -95,6 +98,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram is a messaging app with a focus on speed and security. It is simple and free. Note that this FOSS version isn't official, official version can be found on Playstore but that version uses non-free dependencies. Also, the server of Telegram is closed-source [for now](https://telegram.org/faq#q-why-not-open-source-everything).
 - [Tusky](https://tusky.app/) - Mastodon client for Android.
+- [Twidere](https://github.com/TwidereProject/Twidere-Android) - An Open Source, fully featured Twitter/Mastodon/StatusNet/Fanfou app.
 - [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
 
 ## Education
@@ -117,6 +121,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [Metro](https://github.com/MuntashirAkon/Metro) - Fork of [Retro Music Player](#retro-music-player) with removed proprietary Google Play libraries.
 - [Music](https://github.com/MaxFour/Music-Player) - Lightweight and Material Music Player.
+- [Music Player GO](https://github.com/enricocid/Music-Player-GO) - A simple yet fully-featured local music player aiming at simplicity and performance.
 - [Odyssey Music Player](https://github.com/gateship-one/odyssey) - Lightweight music player.
 - [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android.
 - [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android.
@@ -163,6 +168,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [NewPipe](https://newpipe.schabi.org/) - Lightweight Google-free YouTube client.
 - [SkyTube](https://skytube-app.com/) - An open-source YouTube™ app for Android™.
+- [Twire](https://github.com/twireapp/Twire) - An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch.
 
 ## VPN
 
@@ -173,6 +179,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 ## Others
 
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
+- [CPU Info](https://github.com/kamgurgul/cpu-info) - Provides information about device hardware and software.
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
 - [LabCoat](https://gitlab.com/Commit451/LabCoat) - GitLab client for Android.
 - [OctoDroid](https://github.com/slapperwan/gh4a) - Github client for Android.
@@ -182,7 +189,9 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Tools
 
+- [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - A Free and Open Source software download manager.
 - [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
+- [MoeList](https://github.com/axiel7/MoeList) - Unofficial MAL (MyAnimeList) client. With this app you can easily track, rate, organize and discover new Anime & Manga.
 - [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
 - [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories.
 
