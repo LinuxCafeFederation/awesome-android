@@ -80,6 +80,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
 - [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
 - [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
+- [FlorisBoard](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state.
 - [FluffyChat](https://gitlab.com/ChristianPauly/fluffychat-flutter) - A minimalist matrix client for Android.
 - [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
