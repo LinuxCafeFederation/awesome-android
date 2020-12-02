@@ -54,10 +54,11 @@ A curated list of awesome open source Android applications, tutorials and resour
 ## Book readers
 
 - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI.
-- [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
 - [Librera PRO](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) - Librera Reader is a highly customizable and feature-rich application
 for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, etc. formats. Note that Playstore version can access non-free services like Dropbox, Google Drive and Onedrive while the one mentioned here(F-droid version) can't.
+- [Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader for Android.
+- [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader.
 
 ## Browsers
 
