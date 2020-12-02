@@ -154,6 +154,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Photos
 
+- [DNG Processor](https://github.com/amirzaidi/DNGProcessor) - Bring out the best in your phone's camera. It waits for new RAW images captured using a supported camera app, and then processes them in the background. Works well with Open Camera and usually gives better results than Google Camera ports.
 - [Phimp.me](https://github.com/fossasia/phimpme-android) - Photo Imaging and Picture Editor.
 - [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/) - A premium app for managing and editing your photos, videos, GIFs without ads.
 
