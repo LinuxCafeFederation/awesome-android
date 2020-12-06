@@ -215,7 +215,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 and interface for the Kali Linux chroot. Please note that it requires [Nethunter Terminal](http://store.nethunter.com/en/packages/com.offsec.nhterm/) to work.
 - [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into (It has a few compatibility issues with Android 10+ for now but you can still use it if you like).
 - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root).
-- [VirtualXposed](https://f-droid.org/en/packages/io.va.exposed/) - Use Xposed without root, unlock the bootloader or modify system image.
+- [VirtualXposed](https://f-droid.org/en/packages/io.va.exposed/) - Use Xposed without root, unlock the bootloader or modify system image (Supports Android 5.0~9.0).
 
 ## Contributing
 
