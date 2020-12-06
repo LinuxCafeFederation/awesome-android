@@ -190,6 +190,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [OctoDroid](https://github.com/slapperwan/gh4a) - Github client for Android.
 - [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open-source GitHub Android client app, faster and concise.
 - [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
+- [StreetComplete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/) - OpenStreetMap surveyor app. This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
 - [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 
 ## Tools
