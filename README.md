@@ -110,6 +110,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 ## Games
 
+- [Andor's Trail](https://f-droid.org/en/packages/com.gpl.rpg.AndorsTrail/) - Quest-driven Roguelike fantasy dungeon crawler RPG with a powerful story.
 - [Mindustry](https://anuke.itch.io/mindustry) - Mindustry is a hybrid tower-defense sandbox factory game.
 - [Minetest](https://www.minetest.net/) - An open source voxel game engine. Basically, a FOSS alternative of Minecraft.
 - [UnCiv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
