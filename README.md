@@ -184,6 +184,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
 - [CPU Info](https://github.com/kamgurgul/cpu-info) - Provides information about device hardware and software.
+- [EtchDroid](https://f-droid.org/en/packages/eu.depau.etchdroid/) - Helps you with writing ISO images and creating bootable USB drives, no root required.
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
 - [LabCoat](https://gitlab.com/Commit451/LabCoat) - GitLab client for Android.
 - [OctoDroid](https://github.com/slapperwan/gh4a) - Github client for Android.
@@ -203,6 +204,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 
 > **NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.**
 
+- [/d/gapps](https://f-droid.org/en/packages/org.droidtr.deletegapps/) - Delete/disable GApps (root permission is optional but recommended).
 - [App Manager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (Root permission is optional).
 - [Island](https://island.oasisfeng.com/) - By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them ([Source Code](https://github.com/oasisfeng/island)) (Root permission is optional).
 - [Insular](https://gitlab.com/secure-system/Insular) - Fork of [Island](#island) with removed proprietary Google Play libraries.
@@ -213,6 +215,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 and interface for the Kali Linux chroot. Please note that it requires [Nethunter Terminal](http://store.nethunter.com/en/packages/com.offsec.nhterm/) to work.
 - [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into (It has a few compatibility issues with Android 10+ for now but you can still use it if you like).
 - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root).
+- [VirtualXposed](https://f-droid.org/en/packages/io.va.exposed/) - Use Xposed without root, unlock the bootloader or modify system image.
 
 ## Contributing
 
