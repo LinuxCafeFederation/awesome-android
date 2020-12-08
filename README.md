@@ -98,6 +98,7 @@ for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CB
 - [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
 - [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
+- [Syphon](https://f-droid.org/en/packages/org.tether.tether/) - A privacy centric matrix client.
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram is a messaging app with a focus on speed and security. It is simple and free. Note that this FOSS version isn't official, official version can be found on Playstore but that version uses non-free dependencies. Also, the server of Telegram is closed-source [for now](https://telegram.org/faq#q-why-not-open-source-everything).
 - [Tusky](https://tusky.app/) - Mastodon client for Android.
 - [Twidere](https://github.com/TwidereProject/Twidere-Android) - An Open Source, fully featured Twitter/Mastodon/StatusNet/Fanfou app.
