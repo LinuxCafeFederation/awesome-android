@@ -13,6 +13,9 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Browsers](#browsers)
 - [Cameras](#cameras)
 - [Communication](#communication)
+  * [Real-Time Communication](#real-time-communication)
+  * [Social Media](#social-media)
+  * [Other](#other)
 - [Education](#education)
 - [Games](#games)
 - [Media Players](#media-players)
@@ -24,7 +27,10 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Productivity](#productivity)
 - [Streaming](#streaming)
 - [VPN](#vpn)
-- [Others](#others)
+- [Other Utilities](#other-utilities)
+  * [Navigation](#navigation)
+  * [Git based clients](#git-based-clients)
+  * [Other](#other)
 - [Tools](#tools)
 - [Modding](#modding)
 
@@ -78,32 +84,41 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Communication
 
-- [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
-- [Barinsta](https://github.com/austinhuang0131/barinsta) - Open-source alternative Instagram client on Android.
-- [Briar](https://code.briarproject.org/briar/briar) - Secure P2P Messaging, Anywhere.
-- [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
-- [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
-- [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
-- [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
-- [FlorisBoard](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state.
-- [FluffyChat](https://gitlab.com/ChristianPauly/fluffychat-flutter) - A minimalist matrix client for Android.
-- [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
-- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
-- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale.
-- [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other.
-- [Langis](https://langis.cloudfrancois.fr/) - A degoogled version of Signal Messenger app. The source of patches used to build this degoogled version is available [here](https://git.legeox.net/capslock/signal-gcm-less).
-- [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub).
-- [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use.
+### Real-Time Communication
+
 - [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app.
-- [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
-- [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
 - [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads.
-- [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
-- [Syphon](https://f-droid.org/en/packages/org.tether.tether/) - A privacy centric matrix client.
+- [Langis](https://langis.cloudfrancois.fr/) - A degoogled version of Signal Messenger app. The source of patches used to build this degoogled version is available [here](https://git.legeox.net/capslock/signal-gcm-less).
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram is a messaging app with a focus on speed and security. It is simple and free. Note that this FOSS version isn't official, official version can be found on Playstore but that version uses non-free dependencies. Also, the server of Telegram is closed-source [for now](https://telegram.org/faq#q-why-not-open-source-everything).
-- [Tusky](https://tusky.app/) - Mastodon client for Android.
-- [Twidere](https://github.com/TwidereProject/Twidere-Android) - An Open Source, fully featured Twitter/Mastodon/StatusNet/Fanfou app.
+- [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub).
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale.
+- [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
+- [Syphon](https://f-droid.org/en/packages/org.tether.tether/) - A privacy centric matrix client.
+- [FluffyChat](https://gitlab.com/ChristianPauly/fluffychat-flutter) - A minimalist matrix client for Android.
+- [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client.
 - [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger.
+- [Briar](https://code.briarproject.org/briar/briar) - Secure P2P Messaging, Anywhere.
+- [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
+
+### Social Media
+
+- [Tusky](https://tusky.app/) - Mastodon client for Android.
+- [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica.
+- [Twidere](https://github.com/TwidereProject/Twidere-Android) - An Open Source, fully featured Twitter/Mastodon/StatusNet/Fanfou app.
+- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.
+- [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
+- [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation.
+- [Barinsta](https://github.com/austinhuang0131/barinsta) - Open-source alternative Instagram client on Android.
+- [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook.
+### Keyboards
+- [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features.
+- [FlorisBoard](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state.
+- [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use.
+
+### Other
+
+- [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other.
+- [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE.
 
 ## Education
 
@@ -142,12 +157,18 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Password managers
 
-- [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
+### General 
+
 - [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the Bitwarden repository. Manual vault syncing is required with that version.
 - [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports.
 - [KeePassDX](https://www.keepassdx.com) - FOSS password manager compatible with .kdb and .kdbx files version 1-4 and a majority of KeePass programs.
 - [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.
 - [Password Store](https://f-droid.org/en/packages/dev.msfjarvis.aps/) - Simple password manager that is compatible with [pass](https://www.passwordstore.org/).
+
+### 2FA/TOTP
+
+- [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
+- [Aegis](https://github.com/beemdevelopment/Aegis) - Free, secure and open source 2FA app for Android.
 
 ## Personalisation
 
@@ -188,17 +209,24 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)).
 - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**).
 
-## Others
+## Other Utilities
 
+### Navigation
+
+- [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
+- [StreetComplete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/) - OpenStreetMap surveyor app. This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
+
+### Git based clients
+
+- [LabCoat](https://gitlab.com/Commit451/LabCoat) - GitLab client for Android.
+- [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open-source GitHub Android client app, faster and concise.
+- [OctoDroid](https://github.com/slapperwan/gh4a) - Github client for Android.
+
+### Other
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
 - [CPU Info](https://github.com/kamgurgul/cpu-info) - Provides information about device hardware and software.
 - [EtchDroid](https://f-droid.org/en/packages/eu.depau.etchdroid/) - Helps you with writing ISO images and creating bootable USB drives, no root required.
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
-- [LabCoat](https://gitlab.com/Commit451/LabCoat) - GitLab client for Android.
-- [OctoDroid](https://github.com/slapperwan/gh4a) - Github client for Android.
-- [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open-source GitHub Android client app, faster and concise.
-- [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases.
-- [StreetComplete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/) - OpenStreetMap surveyor app. This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
 - [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 
 ## Tools
