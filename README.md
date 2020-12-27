@@ -23,7 +23,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Office](#office)
 - [Password managers](#password-managers)
   * [General](#general)
-  * [2FA/TOTP](#2fa/totp)
+  * [2FA/TOTP](#2fa-totp)
 - [Personalisation](#personalisation)
 - [Photos](#photos)
 - [Productivity](#productivity)
