@@ -23,7 +23,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Office](#office)
 - [Password managers](#password-managers)
   * [General](#general)
-  * [2FA/TOTP](#2fa-/-totp)
+  * [2FA and TOTP](#2fa-and-totp)
 - [Personalisation](#personalisation)
 - [Photos](#photos)
 - [Productivity](#productivity)
@@ -167,7 +167,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it.
 - [Password Store](https://f-droid.org/en/packages/dev.msfjarvis.aps/) - Simple password manager that is compatible with [pass](https://www.passwordstore.org/).
 
-### 2FA/TOTP
+### 2FA and TOTP
 
 - [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
 - [Aegis](https://github.com/beemdevelopment/Aegis) - Free, secure and open source 2FA app for Android.
