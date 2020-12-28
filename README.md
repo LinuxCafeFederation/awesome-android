@@ -224,10 +224,13 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [OctoDroid](https://github.com/slapperwan/gh4a) - Github client for Android.
 
 ### Other
+
+- [AL-chan](https://zend10.github.io/AL-chan/) - It is an unofficial Android client for AniList.
 - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads!
 - [CPU Info](https://github.com/kamgurgul/cpu-info) - Provides information about device hardware and software.
 - [EtchDroid](https://f-droid.org/en/packages/eu.depau.etchdroid/) - Helps you with writing ISO images and creating bootable USB drives, no root required.
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
+- [MoeList](https://github.com/axiel7/MoeList) - Unofficial MAL (MyAnimeList) client. With this app you can easily track, rate, organize and discover new Anime & Manga.
 - [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
 
 ## Tools
@@ -235,7 +238,6 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/) - Control network traffic (Requires root).
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - A Free and Open Source software download manager.
 - [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
-- [MoeList](https://github.com/axiel7/MoeList) - Unofficial MAL (MyAnimeList) client. With this app you can easily track, rate, organize and discover new Anime & Manga.
 - [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
 - [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories.
 - [TrackerControl](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) - TrackerControl allows to monitor and control hidden data collection in apps.
