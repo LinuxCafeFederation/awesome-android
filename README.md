@@ -238,6 +238,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/) - Control network traffic (Requires root).
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - A Free and Open Source software download manager.
+- [DroidFish](https://github.com/peterosterlund2/droidfish) - It is a feature-rich graphical chess user interface, combined with the very strong Stockfish chess engine.
 - [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional).
 - [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder.
 - [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories.
