@@ -192,6 +192,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 - [Acode](https://acode.foxdebug.com/) - A powerful code editor for Android.
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
+- [GetFlow](https://github.com/AdrianMiozga/GetFlow) - A Pomodoro Timer app that also provides statistics.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
