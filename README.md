@@ -153,6 +153,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android.
 - [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android.
 - [Simple Music PLayer](https://f-droid.org/en/packages/com.simplemobiletools.musicplayer/) - A clean music player with a customizable widget.
+- [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - It allows you to listen to radio streams.
 - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer) - Local music player for Android.
 - [VLC](https://www.videolan.org/) - Minimal media player.
 
