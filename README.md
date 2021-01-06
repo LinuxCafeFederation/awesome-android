@@ -235,6 +235,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [EtchDroid](https://f-droid.org/en/packages/eu.depau.etchdroid/) - Helps you with writing ISO images and creating bootable USB drives, no root required.
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application.
 - [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app.
+- [Trail Sense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/) - Use your phone's sensors to assist with wilderness treks or survival situations.
 
 ## Tools
 
