@@ -233,6 +233,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 ### Git based clients
 
 - [GitNex](https://gitnex.com/) - Gitea client for Android.
+- [GitTouch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云).
 - [LabCoat](https://gitlab.com/Commit451/LabCoat) - GitLab client for Android.
 - [OctoDroid](https://github.com/slapperwan/gh4a) - GitHub client for Android.
 - [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open-source GitHub Android client app, faster and concise.
