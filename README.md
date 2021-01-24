@@ -51,6 +51,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 ## Basic Utilities
 
+- [Binary Eye](https://github.com/markusfisch/BinaryEye) - Barcode and QR code scanner without ads
 - [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/) - It is a material designed open source calendar.
 - [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android.
 - [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations.
