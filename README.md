@@ -205,6 +205,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
 - [Tasks](https://tasks.org/) - A To-Do list app based on Astrid To-Do list app.
+- [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) - A diary application optimized for user experience.
 
 ## Streaming
 
