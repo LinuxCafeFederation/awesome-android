@@ -210,6 +210,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
 - [Tasks](https://tasks.org/) - A To-Do list app based on Astrid To-Do list app.
+- [neutriNote](https://github.com/appml/neutrinote) - A compact rich markdown note-taking app with math formulas support and many ways to customize.
 
 ## Streaming
 
