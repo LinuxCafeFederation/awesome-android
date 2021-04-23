@@ -206,6 +206,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students.
 - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions.
 - [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/) - Track your habits and long-term goals.
+- [neutriNote](https://github.com/appml/neutrinote) - An ultra compact extensible markdown note app with math formulas, Vue, and Python support.
 - [Noteless](https://github.com/redsolver/noteless) - A markdown note-taking app for mobile devices.
 - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design.
 - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly.
