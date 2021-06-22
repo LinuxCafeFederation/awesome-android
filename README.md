@@ -44,6 +44,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API.
 - [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) - Ad blocker for Android using a VPN, supports hosts files.
 - [DNS66](https://jak-linux.org/projects/dns66/) - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts.
+- [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) - Adblocker, firewall, and anti-censorship tool for Android using the VPN API.
 
 ## App stores
 
