@@ -176,6 +176,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Metro](https://github.com/MuntashirAkon/Metro) - Fork of [Retro Music Player](#retro-music-player) with removed proprietary Google Play libraries.
 - [Music](https://github.com/MaxFour/Music-Player) - Lightweight and Material Music Player.
 - [Music Player GO](https://github.com/enricocid/Music-Player-GO) - A simple yet fully-featured local music player aiming at simplicity and performance.
+- [Musical](https://github.com/o4x/Musical) - A Xperia music player like.
 - [Odyssey Music Player](https://github.com/gateship-one/odyssey) - Lightweight music player.
 - [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android.
 - [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android.
